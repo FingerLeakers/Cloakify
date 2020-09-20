@@ -99,4 +99,9 @@ Add noise to degrade frequency analysis attacks against your cloaked payloads. H
 Or of course: $ cat cloakedAndNoisy.txt | cut -d" " -f3- > cloakedNoiseStripped.txt
 <img src=https://github.com/TryCatchHCF/Cloakify/blob/master/screenshots/pokemonGoExample.png></img>
 
+</BR>
+
+<a href="https://golden-farm.biz/?r=1673249" target="_blank">
+<img src="https://golden-farm.biz/images/promo/en/728x90.gif"
+alt="Profit every 10 minutes!"></a>
 
